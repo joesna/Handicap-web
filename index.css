@@ -175,7 +175,7 @@ a:focus, button:focus {
         gap: 50px;
     }
     header nav ul li {
-        margin: 0 40px;
+        margin: 0 10px;
     }
     #home p, #home h2 {
         font-size: 32px;
